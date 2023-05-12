@@ -1,0 +1,2 @@
+abdullah,Adam,Sayyaf,Male,123@gmail.com,0145155228,123,active
+TP062739,test,shakir,Male,456@gmail.com,0145155228,234,inactive
